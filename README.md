@@ -4,8 +4,8 @@ IAXO Axion Limits
 To regenerate plots use:
 
 ```
-python3 Plot_Axion_Photon.py    #To plot all the plots from Axion Photon 
-python3 Plot_Axion_Electron.pt  #To plot Axion Electron
+python3 PlotAxionPhoton.py    #To plot all the plots from Axion Photon 
+python3 PlotAxionElectron.py  #To plot Axion Electron
 
 ```
 ![Axion Photon Large Panorama](plots/pngs/AxionPhoton_large_panorama.png)
