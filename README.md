@@ -4,10 +4,18 @@ IAXO Axion Limits
 To regenerate plots use:
 
 ```
-python3 generatePlots.py
-```
+python3 Plot_Axion_Photon.py    #To plot all the plots from Axion Photon 
+python3 Plot_Axion_Electron.pt  #To plot Axion Electron
 
-![Axion Photon Helioscopes](plots/AxionPhoton_helioscopes.png)
+```
+python3 
+![Axion Photon Large Panorama](plots/AxionPhoton/AxionPhoton_large_panorama.png)
+
+![Axion Photon Panorama](plots/AxionPhoton/AxionPhoton_panorama.png)
+
+![Axion Photon Helioscopes](plots/AxionPhoton/AxionPhoton_helioscopes.png)
+
+![Axion Photon Helioscopes](plots/AxionPhoton/AxionPhoton_haloscopes.png)
 
 TODO: Create a proper documentation here. Adding image gallery examples.
 
