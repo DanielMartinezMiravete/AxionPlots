@@ -8,7 +8,6 @@ python3 Plot_Axion_Photon.py    #To plot all the plots from Axion Photon
 python3 Plot_Axion_Electron.pt  #To plot Axion Electron
 
 ```
-python3 
 ![Axion Photon Large Panorama](plots/pngs/AxionPhoton_large_panorama.png)
 
 ![Axion Photon Panorama](/plots/pngs/AxionPhoton_panorama.png)
