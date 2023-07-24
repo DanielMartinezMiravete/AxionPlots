@@ -11,7 +11,7 @@ python3 Plot_Axion_Electron.pt  #To plot Axion Electron
 python3 
 ![Axion Photon Large Panorama](plots/AxionPhoton/AxionPhoton_large_panorama.png)
 
-![Axion Photon Panorama](plots/AxionPhoton/AxionPhoton_panorama.png)
+![Axion Photon Panorama](plots/AxionPhoton/pngs/AxionPhoton_panorama.png)
 
 ![Axion Photon Helioscopes](plots/AxionPhoton/AxionPhoton_helioscopes.png)
 
